@@ -39,7 +39,7 @@
     <spring-boot.version>2.5.2</spring-boot.version>
     <spring-cloud.version>2020.0.3</spring-cloud.version>
 
-    <kotlin.version>1.5.20</kotlin.version>
+    <kotlin.version>1.5.21</kotlin.version>
     <kotlin-logging.version>2.0.10</kotlin-logging.version>
 
     <!-- test tools -->
